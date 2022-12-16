@@ -1,0 +1,4 @@
+SOURCE = \
+lamellaReactive.C \
+
+# sources
